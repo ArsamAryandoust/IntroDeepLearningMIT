@@ -112,3 +112,27 @@ from the drop down menu.
     Type Name of Custom Conda Environment
     
     `IntroDeepLearningMIT`
+    
+    
+## Miscellaneous useful commands
+
+List available conda environments:
+
+```
+conda info --envs
+```
+
+File transfer local machine --> remote machine:
+
+```
+scp <local-file.py> <mit_username>@satori-login-001.mit.edu:</your/remote/path/>
+scp -r <local-repo> <mit_username>@satori-login-001.mit.edu:</your/remote/path/>
+```
+
+File transfer remote machine --> local machine:
+
+```
+scp <mit_username>@satori-login-001.mit.edu:<remote-file.py> </your/local/path/>
+scp -r <mit_username>@satori-login-001.mit.edu:<remote-repo> </your/local/path/>
+```
+
