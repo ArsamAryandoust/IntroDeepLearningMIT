@@ -1,12 +1,15 @@
 # Introduction to Deep Learning MIT 2024
 
 This repository contains environment setup instructions and software lab solutions
-for the Independent Activity Period (IAP) course Introduction to Deep Learning
-thaught at MIT during January 2024. 
+for the Independent Activity Period (IAP) course 6.S191 
+[Introduction to Deep Learning](http://introtodeeplearning.com/) thaught at MIT 
+during January 2024. 
 
-If you are affiliated with MIT and want to use the Satori compute cluster for
-accomplishing the Software Labs of the course, follow the instructions we provide
-here to set up your custom Jupyter kernel correctly.
+If you are affiliated with MIT and want to use the 
+[Satori compute cluster](https://satori-portal.mit.edu/) for accomplishing the 
+[Software Labs of the course](https://github.com/aamini/introtodeeplearning), 
+follow the instructions we provide here to correctly set up a custom Jupyter 
+kernel for this purpose.
 
 ## Login
 
