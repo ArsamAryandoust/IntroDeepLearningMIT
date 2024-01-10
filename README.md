@@ -106,7 +106,9 @@ from the drop down menu.
 3. Check all boxes and fill the two fields accordingly, using your own <mit_username>:
 
     Type path to Custom Anaconda Install
+    
     `/nobackup/users/<mit_username>/projects/condas/IntroDeepLearningMIT/miniconda3/bin`
     
     Type Name of Custom Conda Environment
+    
     `IntroDeepLearningMIT`
