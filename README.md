@@ -2,7 +2,7 @@
 
 This repository contains environment setup instructions and software lab solutions
 for the Independent Activity Period (IAP) course 6.S191 
-[Introduction to Deep Learning](http://introtodeeplearning.com/) thaught at MIT 
+[Introduction to Deep Learning](http://introtodeeplearning.com/) taught at MIT 
 during January 2024. 
 
 If you are affiliated with MIT and want to use the 
