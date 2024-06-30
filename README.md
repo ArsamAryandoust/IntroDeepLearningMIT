@@ -9,7 +9,8 @@ If you are affiliated with MIT and want to use the
 [Satori compute cluster](https://satori-portal.mit.edu/) for accomplishing the 
 [Software Labs of the course](https://github.com/aamini/introtodeeplearning), 
 follow the instructions we provide here to correctly set up a custom Jupyter 
-kernel for this purpose.
+kernel for this purpose. Further resources and documentation for using the Satori
+cluster [can be found here](https://mit-satori.github.io/).
 
 
 ## Login
