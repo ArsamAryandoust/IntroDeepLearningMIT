@@ -71,6 +71,7 @@ Create, activate and update your base conda environment. For this project,
 we need:
 
 ```
+conda config --set restore_free_channel true
 conda create -y --name ${CKNAME} tensorflow-gpu
 conda activate ${CKNAME}
 conda update -n base -c defaults conda
